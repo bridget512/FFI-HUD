@@ -32,30 +32,8 @@ text_tcs = 0
 rpm = 0
 max_rpm = 0
 
-
-hud20 = [
-    imagePath + "hud/h00.png",              #0
-    imagePath + "hud/h01.png",              #1        
-    imagePath + "hud/h02.png",              #2
-    imagePath + "hud/h03.png",              #3
-    imagePath + "hud/h04.png",              #4
-    imagePath + "hud/h05.png",              #5
-    imagePath + "hud/h06.png",              #6
-    imagePath + "hud/h07.png",              #7
-    imagePath + "hud/h08.png",              #8
-    imagePath + "hud/h09.png",              #9
-    imagePath + "hud/h10.png",            #10
-    imagePath + "hud/h11.png",            #11
-    imagePath + "hud/h12.png",            #12
-    imagePath + "hud/h13.png",            #13
-    imagePath + "hud/h14.png",            #14
-    imagePath + "hud/h15.png",            #15
-    imagePath + "hud/h16.png",             #16
-    imagePath + "hud/h17.png",            #17
-    imagePath + "hud/h18.png",            #18
-    imagePath + "hud/h19.png",            #19
-    imagePath + "hud/h20.png"             #20
-]
+# Array of HUD images
+hud20 = [os.listdir(imagePath)]
 
 
 # =============================================================================== #     acMain
