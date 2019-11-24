@@ -2,7 +2,7 @@
 Assetto Corsa - A Ferrari FF (2013) inspired hud
 
 <h2> Requires Michroma font to be installed </h2>
-<a> https://fonts.google.com/specimen/Michroma </a>
+<a href="https://fonts.google.com/specimen/Michroma"> Google Fonts - Michroma </a>
 
 <h2>Installation</h2>
 <p>Copy the "FFI HUD" folder to the apps\python\ diectory of your Assetto Corsa installation. </p>
